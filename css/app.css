@@ -22,7 +22,6 @@ header{
     height: 400px;
     background-color: whitesmoke;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -32,7 +31,14 @@ header{
     background: mediumpurple;
     width: 300px;
     margin: 10px;
+    transition: all 0.3s ease-out;
 }
+
+.col-sm:hover{
+   box-shadow: 0px 30px 42px rgba(0,0,0,0.2);
+   transform: translatey(-20px);
+}
+
 
 .mid{
     display: flex;
