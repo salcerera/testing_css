@@ -82,7 +82,7 @@ table, th,td{
 }
 
 th{
-    background: rgba(0,0,0,0.7);
+    background: linear-gradient(to right, mediumpurple, dodgerblue);
     color: white;
 }
 
