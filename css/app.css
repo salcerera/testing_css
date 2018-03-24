@@ -72,6 +72,18 @@ header{
 }
 
 
+.bottom{
+    height: 300px;
+    padding: 50px;
+}
+
+table, th,td{
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+th{
+    background: mediumpurple
+}
 
 
 footer{
