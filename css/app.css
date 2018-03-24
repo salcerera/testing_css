@@ -82,8 +82,10 @@ table, th,td{
 }
 
 th{
-    background: mediumpurple
+    background: rgba(0,0,0,0.7);
+    color: white;
 }
+
 
 
 footer{
