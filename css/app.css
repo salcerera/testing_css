@@ -54,13 +54,14 @@ header{
     align-items: center;
     height: 300px;
     width: 100%;
-    flex-direction: column;
-    justify-content: center;
+    
 }
 
 .left{
     width: 30%;
     background: mediumpurple;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .right{
