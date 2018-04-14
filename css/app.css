@@ -178,7 +178,6 @@ cards style guide
     box-shadow: 0px 5px 42px rgba(0,0,0,0.10);
     margin: 10px;
     transition: all 0.3s ease-out;
-    overflow: hidden;
 }
 
 .card-title-tristan{
