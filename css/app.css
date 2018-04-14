@@ -181,11 +181,23 @@ cards style guide
     overflow: hidden;
 }
 
+.card-title-tristan{
+    text-align: center;
+    padding:10px 20px;
+    font-size: 20px;
+    color: rgb(255,255,255);
+}
 
 .card-text-tristan{
     text-align: center;
     padding:10px 20px;
-    color: rgba(255,255,255,0.5);
+    
+}
+
+.card-tristan img{
+    width: 100%;
+    height: auto;
+   
 }
 
 .card-tristan:hover{
