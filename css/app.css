@@ -172,13 +172,16 @@ cards style guide
 .card-tristan{
     display: flex;
     flex-direction: column;
-    min-height: 400px;
+    height: 400px;
     width: 350px;
     background: dodgerblue;
     box-shadow: 0px 5px 42px rgba(0,0,0,0.10);
     margin: 10px;
     transition: all 0.3s ease-out;
+    overflow: hidden;
 }
+
+
 .card-text-tristan{
     text-align: center;
     padding:10px 20px;
@@ -198,7 +201,6 @@ cards style guide
 }
 
 .fancyanchor-tristan {
-    
     
 text-decoration: none; 
 color: rgba(255,255,255);
