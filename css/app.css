@@ -211,11 +211,7 @@ cards style guide
     color: rgb(255,255,255);
 }
 
-.card-text-tristan{
-    text-align: center;
-    padding:10px 20px;
-    
-}
+
 
 .card-tristan img{
     width: 100%;
@@ -231,15 +227,19 @@ cards style guide
 .card-text-tristan{
     text-align: center;
     padding:10px 20px;
-    color: rgba(255,255,255,0.5);
+    color: white;
     
 }
 
-.fancyanchor-tristan {
-    
-text-decoration: none; 
-color: rgba(255,255,255);
-    
+.btn-primary-tristan{
+    background: white;
+    padding: 10px 30px;
+    color: dodgerblue;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 2px 7px 22px rgba(0,0,0,0.20);
 }
+
 
 
